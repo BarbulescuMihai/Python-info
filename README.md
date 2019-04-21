@@ -1,6 +1,11 @@
-# Python 
+# Python
+
+## Motivation
+* 8 good reasons to become a software developer: https://flaviocopes.com/good-reasons-become-software-developer/
+* Average Software Engineer / Developer / Programmer Salary (Netherlands): https://www.payscale.com/research/NL/Job=Software_Engineer_%2F_Developer_%2F_Programmer/Salary
 
 ## General Info & Guides
+* So you want to be a software engineer? (read all of them) https://medium.com/launch-school/so-you-want-to-be-a-software-engineer-part-1-of-4-426f574f2ba2
 * A realistic roadmap to becoming a Python developer: https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509
 * Learn programming: https://www.reddit.com/r/learnprogramming/wiki/faq
 
