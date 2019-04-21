@@ -2,11 +2,12 @@
 
 ## General Info & Guides
 * A realistic roadmap to becoming a Python developer: https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509
+* Learn programming: https://www.reddit.com/r/learnprogramming/wiki/faq
 
 ## Courses
-* The Python Mega Course: Build 10 Real World Applications: https://www.udemy.com/the-python-mega-course/
 * Programming Foundations with Python: https://eu.udacity.com/course/programming-foundations-with-python--ud036
 * Introduction to Python: https://eu.udacity.com/course/introduction-to-python--ud1110
+* The Python Mega Course: Build 10 Real World Applications: https://www.udemy.com/the-python-mega-course/
 
 ## Books
 * Automate the Boring Stuff with Python: Practical Programming for Total Beginners: https://automatetheboringstuff.com/
@@ -15,3 +16,12 @@
 ## Reference
 * Python Resources: https://www.fullstackpython.com/best-python-resources.html
 * A curated list of awesome Python frameworks, libraries, software and resources: https://github.com/vinta/awesome-python
+
+## Forums
+* https://www.reddit.com/r/learnpython/
+* https://www.reddit.com/r/learnprogramming/
+* https://www.reddit.com/r/Python
+* https://www.reddit.com/r/programming
+* https://www.reddit.com/r/dailyprogrammer
+* https://www.reddit.com/r/django
+* https://www.reddit.com/r/flask
